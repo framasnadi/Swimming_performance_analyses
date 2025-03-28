@@ -1,6 +1,6 @@
 # Swimming_performance_analyses
 Workflow scripts for extract kinematics of escape swimming performance from high-speed camera videos.
-This workflow has been used to obtain the final values ​​of the kinematic endpoints used in the study. _"Sub-lethal effects of natural cyanobacterial blooms on fish: Enzymatic activity and swimming performance in the three-spined stickleback"_ submitted to Harmful Algae.
+This workflow has been used to obtain the final values ​​of the kinematic endpoints used in the study: _"Sub-lethal effects of natural cyanobacterial blooms on fish: Enzymatic activity and swimming performance in the three-spined stickleback"_ submitted to Harmful Algae.
 
 - Author: Francesco Masnadi
 - Supervisors: Agnes M.L. Karlson; Valentina Di Santo
